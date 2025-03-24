@@ -1,0 +1,21 @@
+{
+  "name": "black-atom",
+  "displayName": "Black Atom",
+  "description": "A Black Atom colored theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Atom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Atom-color-theme.json"
+      }
+    ]
+  }
+}
